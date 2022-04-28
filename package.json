@@ -1,0 +1,15 @@
+{
+  "name": "spell",
+  "version": "1.0.0",
+  "description": "A simple js app for kids to test their spellings",
+  "main": "index.js",
+  "homepage": "https://nileshsimaria.github.io/spell",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Nilesh Simaria",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
